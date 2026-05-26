@@ -11,3 +11,4 @@ Practical security analysis exercises performed on a local Ubuntu Server lab.
 - [01] SSH Brute Force Attack Detection
 - [02] Linux Permissions and Processes
 - [03] Networking: Ports and Connections
+- [04] Suspicious Process Investigation
